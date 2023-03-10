@@ -1,0 +1,15 @@
+This is the attachment to the thesis Testing Independence of Compte’s Spatial Working Memory Model from the Neuron Model. 
+Author: Bc. Adam Štefunko
+Supervisor: prof. RNDr. Ľubica Beňušková, PhD.
+
+Faculty of mathematics, physics and informatics
+Comenius University, Bratislava
+
+This attachment contains source files for simulations:
+swm-no_distractors.py
+swm-distractors.py
+
+The folder "figures" contains  visualizations of our simulations presented in chapter 4.
+Each figure is labeled according the order in the thesis.
+
+For instance, the file 4_12_a contains figure 4.12a.
